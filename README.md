@@ -1,1 +1,1 @@
-# Converter-heic-to-png
+# Converter-heic-to-jpg
